@@ -124,6 +124,8 @@ Los archivos de limpieza de datos requieren ajustes adicionales si los datos obt
 
 Los precios de venta están en dólares estadounidenses (USD) y los precios de alquileres en pesos argentinos (ARS).
 
+*ACLARACIÓN*: el proyecto fue realizado en varios días, pero hubieron problemas con el repositorio anterior así que nos vimos obligados a mudarlo, por ello figuran pocos commits. Además dejamos en claro que este proyecto no es en si el proyecto final sino que es parte de un proyecto objetivo mucho más grande.
+
 ## Contribuidores
 
 En este proyecto hemos trabajado 2 personas, dejamos nuestros perfiles y correos electrónicos.
